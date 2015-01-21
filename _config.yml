@@ -19,8 +19,8 @@ url: http://zhiyu-jiang.github.io/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/nut.png
-favicon: /public/img/nut.png
+gavatar: /public/img/cat.jpg
+favicon: /public/img/cat.jpg
 
 # google analytics 设置
 ga:
