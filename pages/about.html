@@ -36,8 +36,6 @@ titlename: About
 </a>
 <hr>
 
-{% include disqus.html %}
-
 <form action="https://getsimpleform.com/messages?form_api_token=96662041ad6f3c2e59e6616732710ddb" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
@@ -45,6 +43,11 @@ titlename: About
   <input type='text' name='test' />
   <input type='submit' value='Test form' />
 </form>
+
+
+{% include disqus.html %}
+
+
 
 <!--我叫<font color="#000080">L</font><font color="#FFA500">i</font><font color="#2E8B57">n</font><font color="#F08080">A</font><font color="#00CED1">n</font><font color="red">y</font><font color="#BA55D3">a</font>,> 
 
