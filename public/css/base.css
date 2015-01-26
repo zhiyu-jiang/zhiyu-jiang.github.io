@@ -14,7 +14,7 @@ body, html {
 }
 /* 导航栏 + 目录栏 */
 .aside {
-  height: 100%;
+  height: 10%;
 }
 /* 左侧导航栏 */
 .aside1 {
@@ -33,7 +33,7 @@ body, html {
   border-radius: 0px;
   color: #fff;
   font-size: 15px;
-  padding: 10px 50px;
+  padding: 10px 10px;
 
 }
 
