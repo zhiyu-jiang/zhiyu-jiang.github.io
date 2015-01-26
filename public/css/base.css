@@ -18,12 +18,12 @@ body, html {
 }
 /* 左侧导航栏 */
 .aside1 {
-  /*background-color: #1f2c39;*/
-  background-color: #1abc9c;
+  background-color: #1f2c39;*/
+  /*background-color: #1abc9c;
   /*background-image: url(/public/img/bg_grid.jpg);*/
   height: 100%;
-  padding-left: 0px;
-  padding-right: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
   text-align: center;
   /*box-shadow: inset -15px 0 20px -15px #77AEF4;*/
 }
