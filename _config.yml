@@ -5,7 +5,7 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: Zhiyu Jiang
-  email: jzhiyu1991@hotmail.com
+  email: jzhiyu1991@gmail.com
   link: http://zhiyu-jiang.github.io/
   weibo: http://weibo.com/jzhiyu
   github: http://github.com/zhiyu-jiang
@@ -40,8 +40,8 @@ cates:
 #  - LaTeX
 
 # 中文本地化
-locals:
-  tags: 标签
-  about: 关于
-  newest: 最新文章
-  archive: 归档
+#locals:
+#  tags: 标签
+#  about: 关于
+#  newest: 最新文章
+#  archive: 归档
