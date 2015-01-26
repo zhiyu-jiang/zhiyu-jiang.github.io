@@ -23,7 +23,7 @@ gavatar: /public/img/cat.jpg
 favicon: /public/img/cat.jpg
 
 # google analytics 设置
-ga:
+#ga:
 #  id: UA-54262064-1 
 #  url: painterlin.com
 
