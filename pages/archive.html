@@ -15,8 +15,8 @@ comments: false
       <legend id="{{this_year}}-{{this_month}}">{{this_year}}-{{this_month}}</legend>
       <ul>
     {% endif %}
-<!--    <li><span>{{ post.date | date: "%Y年-%m月-%d日" }}</span> &raquo;  -->
-	<li><span>{{ post.date | date: "%d/%m/%Y" }}</span> &raquo;
+    <li><span>{{ post.date | date: "%Y年-%m月-%d日" }}</span> &raquo;  
+
       <a class="pjaxlink" href="{{ post.url }}">{{ post.title }}</a>
     </li>
   
