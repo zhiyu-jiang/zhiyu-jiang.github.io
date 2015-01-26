@@ -40,8 +40,3 @@ cates:
 #  - LaTeX
 
 # 中文本地化
-locals:
-  tags: Tags
-  about: About
-  newest: Newest
-  archive: Archive
