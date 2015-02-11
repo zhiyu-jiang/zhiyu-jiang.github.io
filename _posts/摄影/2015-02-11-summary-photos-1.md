@@ -14,6 +14,5 @@ description:
 ![4](/public/img/photos/2014/7.JPG)
 ![5](/public/img/photos/2014/7_2.JPG)
 ![6](/public/img/photos/2014/8_1.JPG)
-![7](/public/img/photos/2014/8_2.JPG)
 
 
