@@ -6,7 +6,7 @@ tags: 摄影
 keywords: 经历
 description: 
 ---
-- 关键词：**Git+github+jekyll+.tk+DNS.LA+markdown** 
+- 关键词：**photo+2014** 
 
 ![1](/public/img/photos/2014/8_3.JPG)
 ![2](/public/img/photos/2014/8_4.JPG)
