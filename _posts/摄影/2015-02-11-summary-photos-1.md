@@ -11,9 +11,9 @@ description:
 ![1](/public/img/photos/2014/3.jpg)
 ![2](/public/img/photos/2014/5.jpg)
 ![3](/public/img/photos/2014/6.jpg)
-![4](/public/img/photos/2014/7.jpg)
-![5](/public/img/photos/2014/7.2.jpg)
-![6](/public/img/photos/2014/8.1.jpg)
-![7](/public/img/photos/2014/8.2.jpg)
+![4](/public/img/photos/2014/7.JPG)
+![5](/public/img/photos/2014/7_2.JPG)
+![6](/public/img/photos/2014/8_1.JPG)
+![7](/public/img/photos/2014/8_2.JPG)
 
 
