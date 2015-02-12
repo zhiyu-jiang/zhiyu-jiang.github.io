@@ -30,10 +30,9 @@ favicon: /public/img/cat.jpg
 # disqus 设置
 disqus:
   shortname: jiangzhiyu
+
   
-# 百度统计
-#analytics: 
-#    provider : custom
+
 
 # 主题设置，自动激活某个标签
 active: about
