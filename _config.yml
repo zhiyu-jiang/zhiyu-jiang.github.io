@@ -32,8 +32,8 @@ disqus:
   shortname: jiangzhiyu
   
 # 百度统计
-analytics: 
-    provider : custom
+#analytics: 
+#    provider : custom
 
 # 主题设置，自动激活某个标签
 active: about
