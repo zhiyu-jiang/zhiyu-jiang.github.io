@@ -7,83 +7,21 @@ keywords:
 description: 
 ---
 
-###查看内核版本
-```
-uname -r
-```
-稳定版本的偶数版，如2.6.x，适合于商业与家用环境使用；开发中版本，如2.5.x，适合开发特殊功能的环境。
+LaTex 是一款优秀的图文排版工具，相比于Word 最大优势在于复杂公式编辑排版漂亮，可以跨平台使用，能够使写者着重于内容而非排版等。尤其是在科研工作中，
+国外期刊会议都会要求使用LaTex作为排版工具。
+		
+本文的目的是记录自己遇到的一些LaTex技巧，便于以后翻看，该文档会不定期更新。
+		
 
-###登陆
+### LaTex简介
 
-Mac：（若以root身份登陆，将username改为root）
+- LaTex是在TeX宏集之上发展而来，本身可以理解为是一些文档排版编辑工具宏集
+- 安装较多使用的是ctex套装，包含有MikTeX编译包和WinEdt集成编译环境。
 
-```
-ssh username@IPaddress
-```
-Linux：(若以root身份登陆，将username删掉）Linux默认root的提示符为#,而一般身份用户的提示符为$。
+### 编译技巧
+		
+- （待补充。。。）
 
-```
-su - username
-```
+### 排版技巧
 
-###注销Linux
-注销Linux并不意味着关机，只是用户离开系统。
-
-```
-exit
-```
-
-###基础命令的操作
-
-```
-command [-options] parameter1 parameter2 ···
-```
-
-```
-echo $LANG   #显示目前支持的语言
-LANG=en_US   #将语言改为英文系
-date         #显示日期与实践
-cal 10 2014  #显示日历
-bc           #计算器
-quit         #退出
-```
-
-###重要的热键
-`[tab]`：连按两次，具有“命令补全”和“文件补齐”的作用。
-`[control]+c`：中断目前程序。
-`[control]+d`：键盘输入结束；直接离开文字界面（相当于``exit`）。
-
-###在线求助 man page
-
-```
-man command  #command是要查询的命令名称
-```
-
-进入man命令后，可按`空格`往下翻页，按`q`键离开。
-在man page中，可以在任何时候输入`/keyword`来查询关键字，比如/date.
-
-###正确的关机方法
-```
-who         #查看目前有谁在线
-netstat -a  #查看网络的联机状态
-ps -aux     #查看后台执行的程序
-```
-
-数据同步写入磁盘：为了防止不正常关机导致的内存数据没有来得及写入磁盘，在文字界面输入
-
-```
-sync 
-```
-
-惯用的关机命令：
-
-```
-shutdown -h now     #立刻关机
-shutdown -h 20:25   #晚上8点25分关机
-shutdown -h +10     #过十分钟后关机
-shutdown -r now     #立刻重启
-shutdown -r +30 ‘The system will be reboot’    #再过30分钟关机，并显示后面的消息给所有在线用户
-shutdown -k now ‘The system will be reboot’    #仅发出警告，系统并不会真正关机
-```
-
-重启、关机：reboot，halt，poweroff。务必用man去查询一下。
+-  Section部分去标号：“Section*(Acknowledge)”
