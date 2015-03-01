@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: 2014年最佳照片【三】
+title: 2014年最佳照片【二】
 category: 摄影
 tags: 摄影
 keywords: 经历
