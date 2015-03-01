@@ -1,9 +1,9 @@
-﻿---
+﻿----
 layout: post
 title: 常用Matlab函数
 category: 技术
 tags: Matlab
----
+----
 
 本文主要收集编程中用到的一些比较实用的函数，便于以后查阅。
 
