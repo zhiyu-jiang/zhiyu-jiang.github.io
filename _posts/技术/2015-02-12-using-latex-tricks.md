@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: 常用LaTeX编辑技巧
 category: 技术
-tags: LaTeX
+tags: LaTex
 keywords: 
 description: 
 ---
