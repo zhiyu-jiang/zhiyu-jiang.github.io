@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 常用LaTeX编辑技巧
+title: 常用Matlab函数
 category: 技术
-tags: LaTex
+tags: Matlab
 keywords: 
 description: 
 ---
