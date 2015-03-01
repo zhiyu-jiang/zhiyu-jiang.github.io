@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Linux 1：登陆与在线求助man page
+title: 常用LaTeX编辑技巧
 category: 技术
-tags: Linux
+tags: LaTex
 keywords: 
 description: 
 ---
