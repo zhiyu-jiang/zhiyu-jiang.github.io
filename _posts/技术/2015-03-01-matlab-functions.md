@@ -6,8 +6,6 @@ tags: Matlab
 keywords: 
 description: 
 ---
-
-###查看内核版本
 	
 本文主要收集编程中用到的一些比较实用的函数，便于以后查阅。
 
