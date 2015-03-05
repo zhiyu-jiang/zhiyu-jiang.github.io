@@ -13,13 +13,13 @@ description:
 基于此，为了长久的发展，打算记录每次例会的内容，主要是自己不懂的和思考到的问题，便于以后查阅。
 
 ### Outline
--PPT 汇报人员：
+- PPT 汇报人员：
 
 1. 郭    群：Blind Video Quality Assessment
 
 2. 马单丹：Hyperspectral Anomaly Detection
 
--Reading Group 汇报人员：
+- Reading Group 汇报人员：
 
 1. 史建华：Y. Gong, L. Wang, R. Guo, and S. Lazebnik, “Multi-Scale Orderless Pooling of Deep Convolutional Activation Features,” in ECCV, 2014. 
 
