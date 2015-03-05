@@ -38,3 +38,5 @@ description:
 【2】 [Hyperspectral Anomaly Detection]()
 
 【3】 [Multi-Scale Orderless Pooling of Deep Convolutional Activation Features](http://arxiv.org/abs/1403.1840)
+
+【4】 [CSDN论文阅读笔记](http://blog.csdn.net/woyaopojie1990/article/details/38560371)
