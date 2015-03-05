@@ -17,7 +17,7 @@ description:
 ### Outline
 - PPT 汇报人员：
 
-1. 郭    群：Blind Video Quality Assessment
+1. 郭  群：Blind Video Quality Assessment
 
 2. 马单丹：Hyperspectral Anomaly Detection
 
