@@ -14,11 +14,14 @@ description:
 
 ### Outline
 -PPT 汇报人员：
---郭    群：Blind Video Quality Assessment
 
---马单丹：Hyperspectral Anomaly Detection
+1. 郭    群：Blind Video Quality Assessment
+
+2. 马单丹：Hyperspectral Anomaly Detection
+
 -Reading Group 汇报人员：
---史建华：Y. Gong, L. Wang, R. Guo, and S. Lazebnik, “Multi-Scale Orderless Pooling of Deep Convolutional Activation Features,” in ECCV, 2014. 
+
+1. 史建华：Y. Gong, L. Wang, R. Guo, and S. Lazebnik, “Multi-Scale Orderless Pooling of Deep Convolutional Activation Features,” in ECCV, 2014. 
 
 ### Blind Video Quality Assessment
 
@@ -26,8 +29,10 @@ description:
 
 ### Multi-Scale Orderless Pooling of Deep Convolutional Activation Features
 
-### 资料
+### 参考资料
 
 【1】 [Blind Video Quality Assessment]()
+
 【2】 [Hyperspectral Anomaly Detection]()
+
 【3】 [Multi-Scale Orderless Pooling of Deep Convolutional Activation Features](http://arxiv.org/abs/1403.1840)
