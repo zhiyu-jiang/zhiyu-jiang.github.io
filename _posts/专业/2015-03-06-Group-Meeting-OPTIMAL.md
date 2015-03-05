@@ -2,8 +2,8 @@
 layout: post
 title: 视频质量评价+高光谱异常检测+Deep Feature
 category: 科研
-tags: deep_learning
-keywords: CNN，video representation，event detection
+tags: group_meeting
+keywords: Quality Assessment，Anomaly Detection，Features
 description: 
 ---
 
