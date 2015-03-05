@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Discriminative CNN Video Representation for Event Detection
+title: 视频质量评价+高光谱异常检测+Deep Feature
 category: 科研
 tags: deep_learning
 keywords: CNN，video representation，event detection
