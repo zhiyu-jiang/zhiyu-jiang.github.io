@@ -8,6 +8,7 @@ description:
 ---
 - 关键词：**photo+2014** 
 
+<img src="/public/img/photos/2014/3.jpg" width = "300" height = "200" alt="1" />
 ![1](/public/img/photos/2014/3.jpg)
 ![2](/public/img/photos/2014/5.jpg)
 ![3](/public/img/photos/2014/6.jpg)
