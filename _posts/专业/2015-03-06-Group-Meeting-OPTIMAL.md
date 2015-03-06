@@ -16,7 +16,7 @@ description:
 
 ### 知识点
 
-- <B>SVR, MLP</B> 
+- *SVR, MLP*
 
 - <B>Collaborative Representation</B> 
 
