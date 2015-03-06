@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 视频质量评价+高光谱异常检测+Deep Feature
+title: 视频质量评价+高光谱异常检测+Deep Feature-组会
 category: 科研
 tags: group_meeting
 keywords: Quality Assessment，Anomaly Detection，Features
