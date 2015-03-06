@@ -17,9 +17,12 @@ description:
 作者提出了appropriate encoding method，实验验证significantly improved；2）提出了a set of latent concept descriptors 作为 frame descriptors，
 在丰富视觉信息的同时没有大幅增加计算量。
 
-实验验证，要比state-of-the-art 方法 <i>Dense Trajectories</i> 的<i> mAP </i> 从27.6%提升到36.8%。
+通过大量的数据库验证，要比state-of-the-art 方法 <i>Dense Trajectories</i> 的<i> mAP </i> 从27.6%提升到36.8%。
 
 ### 相关工作
+
+Dense Trajectories 和它的增强版本 <i>improved Dense Trajectories</i>(IDT),结果 spatial re-sizing and temporal down-sampling processing, 时间复杂度
+太高。
 
 ### 方法
 
