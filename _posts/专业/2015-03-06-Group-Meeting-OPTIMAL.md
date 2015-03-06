@@ -16,7 +16,7 @@ description:
 
 ### 知识点
 
-- ***SVR, MLP***
+- **SVR, MLP**
 
 - <B>Collaborative Representation</B> 
 
@@ -39,9 +39,21 @@ description:
 
 ### Blind Video Quality Assessment
 
+- 视频包括*获取 -> 编码 -> 传输 -> 解码 -> 显示*这几个过程，视频质量评价主要是对解码之后的视频进行评价。 
+
+- 视频质量评价根据是否有参考图像，可以分为*全参考*，*减参考*和*无参考*图像质量评级，难点是在*无参考*。（注：这里的参考指的是是否有原始无失真图像，不是指训练集）
+
+- 无参考视频质量评价框架：video -> feature extraction -> mapping model -> quality assessment，其中核心是中间两步。
+
 ### Hyperspectral Anomaly Detection
 
+- 区别于target detection
+
 ### Multi-Scale Orderless Pooling of Deep Convolutional Activation Features
+
+- 主要贡献是把图像输入 CNN 之前，分为三个尺度处理，类似于对 BoW 做空间金字塔处理。
+
+- VLAD pooling
 
 ### 参考资料
 
