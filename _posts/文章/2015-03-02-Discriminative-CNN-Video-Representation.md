@@ -43,8 +43,8 @@ Dense Trajectories 和它的增强版本 <i>improved Dense Trajectories</i>(IDT)
 
 标准的步骤包括：1）Obtain the descriptors for individual frames; 2) Apply normalization on frame descriptors; 3) Average pooling on
 frame descriptors to obtain the video representation,
-<a href="http://www.codecogs.com/eqnedit.php?latex=x_{video}=&space;\frac{1}{N}\sum_{i=1}^{N}x_i" target="_blank">
-<img src="http://latex.codecogs.com/png.latex?x_{video}=&space;\frac{1}{N}\sum_{i=1}^{N}x_i" title="x_{video}= \frac{1}{N}\sum_{i=1}^{N}x_i" /></a>
+<a href="http://www.codecogs.com/eqnedit.php?latex=\large&space;x_{video}=&space;\frac{1}{N}\sum_{i=1}^{N}x_i" target="_blank">
+<img src="http://latex.codecogs.com/png.latex?\large&space;x_{video}=&space;\frac{1}{N}\sum_{i=1}^{N}x_i" title="\large x_{video}= \frac{1}{N}\sum_{i=1}^{N}x_i" /></a>
 4) Re-normalization on video representation.
 
 ### 思考
