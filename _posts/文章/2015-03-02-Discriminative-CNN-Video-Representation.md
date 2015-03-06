@@ -50,11 +50,14 @@ frame descriptors to obtain the video representation,
 
 其中的pooling技术是关键，作者测试了 fisher vector encoding and VLAD encoding, 得出的结论是VLAD具有较好的编码效果。  
 
-关于 CNN Latent Concept Descriptors，可以把每个 CNN 滤波器（指的是第五 pool 层）看做是 latent concept 
+关于 CNN Latent Concept Descriptors，可以把每个 CNN 滤波器（指的是第五 pool 层）看做是 latent concept. 
 
 ### 思考
 
-- 
+CNN可以得到较好的特征，关键是怎么用这些特征，然后是怎么解释这一个问题，这篇文章给出了一种很好的解释思路。
+
+除此之外，自已前期一个工作用到形态学操作，但是不懂怎么用数学描述，后来才VALSE中听到一个老师的ppt，才恍然大悟，原来就这么简单看似无法用数学描述的东西，
+也是可以用公式描述的，以后得多思考了。
 
 
 ### 参考文章
