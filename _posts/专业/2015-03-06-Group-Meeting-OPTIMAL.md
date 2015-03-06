@@ -47,7 +47,7 @@ description:
 
 ### Hyperspectral Anomaly Detection
 
-- 区别于target detection
+- 区别于 target detection
 
 ### Multi-Scale Orderless Pooling of Deep Convolutional Activation Features
 
