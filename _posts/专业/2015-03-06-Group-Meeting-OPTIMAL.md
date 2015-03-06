@@ -14,6 +14,18 @@ description:
 
 好记性不如烂笔头，不是毛爷爷说的！！！~~~
 
+### 知识点
+
+- <B>SVR, MLP</B> 
+
+- <B>Collaborative Representation</B> 
+
+- <B>Metric Learning</B> 
+
+- <B>DCT变换</B>
+
+- <B>张量表达</B>  
+
 ### Outline
 - PPT 汇报人员：
 
