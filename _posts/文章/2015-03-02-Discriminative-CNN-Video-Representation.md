@@ -47,6 +47,9 @@ frame descriptors to obtain the video representation,
 <img src="http://latex.codecogs.com/png.latex?\large&space;x_{video}=&space;\frac{1}{N}\sum_{i=1}^{N}x_i" title="\large x_{video}= \frac{1}{N}\sum_{i=1}^{N}x_i" /></a>
 4) Re-normalization on video representation.
 
+其中的pooling技术是关键，作者测试了 fisher vector encoding and VLAD encoding, 得出的结论是VLAD具有较好的编码效果。  
+
+
 ### 思考
 
 ### 参考文章
