@@ -13,7 +13,11 @@ description:
 
 ### 摘要
 
-这篇文章是在大规模数据基础上提出视频的判别性描述方法，从而进行event detection.
+这篇文章提出了一种基于CNN的视频特征描述方法，从而进行event detection.主要的贡献点包括：1）基于传统的average pooling和max pooling，
+作者提出了appropriate encoding method，实验验证significantly improved；2）提出了a set of latent concept descriptors 作为 frame descriptors，
+在丰富视觉信息的同时没有大幅增加计算量。
+
+实验验证，要比state-of-the-art 方法 <i>Dense Trajectories</i> 的<i> mAP </i> 从27.6%提升到36.8%。
 
 ### 相关工作
 
