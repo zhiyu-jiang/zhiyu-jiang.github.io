@@ -13,10 +13,11 @@ description:
 
 ### 知识点
 
-- Fine-tuning
+- <B>Fine-tuning</B>
 
-- 
+- <B>Fisher vector</B>
 
+- <B>VLAD</B>
 
 ### 摘要
 
@@ -49,8 +50,12 @@ frame descriptors to obtain the video representation,
 
 其中的pooling技术是关键，作者测试了 fisher vector encoding and VLAD encoding, 得出的结论是VLAD具有较好的编码效果。  
 
+关于 CNN Latent Concept Descriptors，可以把每个 CNN 滤波器（指的是第五 pool 层）看做是 latent concept 
 
 ### 思考
+
+- 
+
 
 ### 参考文章
 
