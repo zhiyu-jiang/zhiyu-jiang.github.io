@@ -11,6 +11,13 @@ description:
 
 文章是好文章，一直对自己没有亲自实现过的东西都怀着敬畏的态度，这篇文章也是。
 
+### 知识点
+
+- Fine-tuning
+
+- 
+
+
 ### 摘要
 
 Event detection 和 action detection 是有区别的，前者有较大的 intra-class variations, 如 marriage proposal, 可能发生在室内，也可能在室外，
@@ -31,10 +38,14 @@ Dense Trajectories 和它的增强版本 <i>improved Dense Trajectories</i>(IDT)
 2）当解决 domain specific task, 同时有较少的训练样本时候，使用训练好的模型做 <B>fine-tuning</B> 是一个很好的策略；3) 有了frame level CNN descriptors，生成 video level representation
 是很关键的。  
 
-### 方法
+
+### Video CNN descriptors
+
 
 ### 思考
 
 ### 参考文章
 
 - [A Discriminative CNN Video Representation for Event Detection](http://arxiv.org/abs/1411.4006)
+
+- [阅读版本](/public/img/pdf/1411.4006v1.pdf)
