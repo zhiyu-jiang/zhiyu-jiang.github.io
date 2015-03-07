@@ -24,7 +24,7 @@ description:
 
 Ensemble Learning，中文翻译是“集成学习”，与之类似的名词包括**多模型系统**，**Committee Learning**，**Modular systems**，**多分类器系统**等。
 
-！[参考](http://img.ptcms.csdn.net/article/201503/02/54f3fd1db7368.jpg)
+![参考](http://img.ptcms.csdn.net/article/201503/02/54f3fd1db7368.jpg)
 
 
 ### 参考资料
