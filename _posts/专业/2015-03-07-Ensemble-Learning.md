@@ -21,7 +21,8 @@ description:
 ### 背景
 
 - **定义**
-	Ensemble Learning，中文翻译是“集成学习”，与之类似的名词包括**多模型系统，Committee Learning， Modular systems， 多分类器系统**等。
+
+Ensemble Learning，中文翻译是“集成学习”，与之类似的名词包括**多模型系统，Committee Learning， Modular systems， 多分类器系统**等。
 
 
 
