@@ -18,9 +18,10 @@ description:
 
 有点扯远了，趁着周末时间，收集整理一下 *集成学习* 的资料，顺带也算总结学习，边学习边记录。
 
-### 知识点
+### 背景
 
-- ** **
+- **定义**
+	Ensemble Learning，中文翻译是“集成学习”，与之类似的名词包括**多模型系统，Committee Learning， Modular systems， 多分类器系统**等。
 
 
 
@@ -30,3 +31,5 @@ description:
 【1】 [集成学习：机器学习兵器谱的“屠龙刀”，龙星镖局](http://www.csdn.net/article/2015-03-02/2824069#0-tsina-1-92816-397232819ff9a47a7b7e80a40613cfe1)
 
 【2】 [Ensemble Methods: Foundations and Algorithms, Zhi-Hua Zhou](http://www.amazon.com/Ensemble-Methods-Foundations-Algorithms-Recognition/dp/1439830037)
+
+【3】 [集成学习,丕子](http://www.zhizhihu.com/html/ytag/%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0)
