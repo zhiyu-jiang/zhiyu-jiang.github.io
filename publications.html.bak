@@ -7,7 +7,7 @@ title: Zhiyu Jiang - publications
 
 <h5>Conference Papers</h5>
 <ul>
-<li><p>
+<li><p style="text-align:justify">
   <b>Z. Jiang</b>, Q. Wang, and Y. Yuan, “Adaptive Road Detection towards Multiscale-Multilevel Probabilistic Analysis,” <i>Proc. IEEE China Summit and International Conference on Signal and Information Processing (ChinaSIP)</i>, pp. 698-702, 9-13 July 2014.
 	<b><font color="#FF0000">Best Paper Award</font></b>.
 	<a href="http://dx.doi.org/10.1109/ChinaSIP.2014.6889334" target="_blank">[Link]</a>
@@ -15,7 +15,7 @@ title: Zhiyu Jiang - publications
 	<a href="assets/pdf/Adaptive Road Detection towards Multiscale-Multilevel Probabilistic Analysis-ChinaSIP2014.pdf" target="_blank">[PDF]</a>
 	<a href="demo.html#chinaSIP2014" target="_blank">[Online Demo]</a> 
 </p></li>
-<li><p>
+<li><p align=“justify”>
   Y. Yuan, <b>Z. Jiang</b>, and Q. Wang, “HDPA: Hierarchical Deep Probability Analysis for Scene Parsing,” <i>Proc. IEEE International Conference on Multimedia And Expo (ICME)</i>, accepted, 2017.
 	<b><font color="#FF0000">30% acceptance rate</font></b>.
 	<a href="about:blank" target="_blank">[Link]</a>
@@ -28,7 +28,7 @@ title: Zhiyu Jiang - publications
 
 <h5>Journal Articles</h5>
 <ul>
-<li><p>
+<li><p align=“justify”>
   Y. Yuan, <b>Z. Jiang</b>, and Q. Wang, "Video-based Road Detection via Online Structural Learning," <i>Neurocomputing</i>, vol. 168, pp. 336-347, 2015.
 
 	<a href="http://dx.doi.org/10.1016/j.neucom.2015.05.092" target="_blank">[Link]</a>
