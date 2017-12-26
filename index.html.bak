@@ -89,10 +89,8 @@ My current research topics include:
 <h3>
 	<a name='activities'></a> Professional Activities
 </h3>
-<h3>
-	<a name='awards'></a>Reports
-</h3>
 <p>
+<b>Reports</b>
 <ul>
 	<li> HDPA: Hierarchical Deep Probability Analysis for Scene Parsing, IEEE International Conference on Multimedia and Expo, Hong Kong, Aug. 2017.
 	<li> Adaptive Road Detection towards Multiscale-Multilevel Probabilistic Analysis, IEEE China Summit and International Conference on Signal and Information Processing, Xi'an, Jul. 2014.
@@ -102,6 +100,7 @@ My current research topics include:
 <b>Reviewer</b>
 <ul> 
 	<li> Transactions and Journals 
+    <ul> 
     <ul> 
 		<li> IEEE Transactions on Intelligent Transportation Systems (IEEE, T-ITS),(2016-now)
 		<li> IEEE Transactions on Cybernetics (IEEE, T-CYB), (2016-now)
