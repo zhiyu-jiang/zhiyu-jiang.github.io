@@ -20,7 +20,7 @@
 </head>
     <body>
 			<audio autoplay="autopaly">
-					<source src="index_files/011.mp3" type="audio/mp3" />
+					<source src="index_files/luck.mp3" type="audio/mp3" />
 			</audio>
         <div id="main">
             <div id="error">本页面采用HTML5编辑，目前您的浏览器无法显示，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器，或者其他游览器的最新版本。</div>
@@ -198,7 +198,7 @@
 
         var textAnimate = eval(Jscex.compile("async", function () {
 		    var together = new Date();
-		    together.setFullYear(2014, 04, 22); 			//时间年月日
+		    together.setFullYear(2017, 9, 30); 			//时间年月(0-11)日(1-31)
 		    together.setHours(11);						//小时	
 		    together.setMinutes(00);					//分钟
 		    together.setSeconds(0);					//秒前一位
