@@ -25,6 +25,26 @@ body {
   line-height: 1.65;
 }
 
+body[data-content-protected="true"],
+body[data-content-protected="true"] * {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body[data-content-protected="true"] img,
+body[data-content-protected="true"] a {
+  -webkit-user-drag: none;
+  user-drag: none;
+}
+
+@media print {
+  body[data-content-protected="true"] {
+    display: none !important;
+  }
+}
+
 a {
   color: #1f5f99;
 }
