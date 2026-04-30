@@ -212,6 +212,24 @@ h5 {
   line-height: 1.75;
 }
 
+.about-image-panel {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.045);
+  margin-top: 22px;
+  padding: 12px;
+  text-align: center;
+}
+
+.about-bottom-image {
+  border-radius: 10px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
 ul,
 ol {
   margin-bottom: 18px;
