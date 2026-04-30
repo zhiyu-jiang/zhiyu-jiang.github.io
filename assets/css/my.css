@@ -372,27 +372,6 @@ li {
   margin-bottom: 10px;
 }
 
-.students-preview-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 12px 0 12px;
-}
-
-.students-preview-stats span {
-  background: var(--primary-soft);
-  border: 1px solid #d5e3f2;
-  border-radius: 999px;
-  color: #344054;
-  display: inline-block;
-  font-size: 13px;
-  padding: 5px 10px;
-}
-
-.students-preview-stats strong {
-  color: var(--primary);
-}
-
 .students-preview-link {
   margin-bottom: 0;
 }
@@ -453,37 +432,6 @@ li {
   flex-wrap: wrap;
   gap: 7px;
   margin-top: 14px;
-}
-
-.students-stats {
-  display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  margin: 16px 0 22px;
-}
-
-.students-stat-card {
-  background: #ffffff;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
-  padding: 14px 12px;
-}
-
-.students-stat-number {
-  color: var(--primary);
-  display: block;
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 1.1;
-}
-
-.students-stat-label {
-  color: var(--text-muted);
-  display: block;
-  font-size: 12.5px;
-  line-height: 1.35;
-  margin-top: 5px;
 }
 
 .students-section {
@@ -636,7 +584,6 @@ hr {
     padding-left: 44px;
   }
 
-  .students-stats,
   .students-grid {
     grid-template-columns: 1fr;
   }
