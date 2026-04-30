@@ -353,6 +353,232 @@ li {
   color: #ffffff;
 }
 
+.students-preview,
+.students-hero,
+.students-section {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.045);
+}
+
+.students-preview {
+  margin: 12px 0 4px;
+  padding: 16px 18px;
+}
+
+.students-preview p {
+  color: #344054;
+  margin-bottom: 10px;
+}
+
+.students-preview-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 12px;
+}
+
+.students-preview-stats span {
+  background: var(--primary-soft);
+  border: 1px solid #d5e3f2;
+  border-radius: 999px;
+  color: #344054;
+  display: inline-block;
+  font-size: 13px;
+  padding: 5px 10px;
+}
+
+.students-preview-stats strong {
+  color: var(--primary);
+}
+
+.students-preview-link {
+  margin-bottom: 0;
+}
+
+.students-preview-link a,
+.students-tags span {
+  background: var(--primary-soft);
+  border-radius: 999px;
+  color: var(--primary);
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 3px 10px;
+}
+
+.students-preview-link a:hover {
+  background: var(--primary);
+  color: #ffffff;
+}
+
+.students-page {
+  margin-top: 0;
+}
+
+.students-hero {
+  background: linear-gradient(135deg, #fbfdff 0%, #f1f6fb 100%);
+  margin-bottom: 18px;
+  padding: 24px 22px;
+}
+
+.students-eyebrow {
+  background: var(--primary-soft);
+  border-radius: 999px;
+  color: var(--primary);
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-bottom: 12px;
+  padding: 4px 10px;
+}
+
+.students-hero h2 {
+  color: var(--primary);
+  font-size: 26px;
+  line-height: 1.25;
+  margin: 0 0 10px;
+}
+
+.students-hero p {
+  color: #344054;
+  line-height: 1.75;
+  margin-bottom: 0;
+}
+
+.students-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 14px;
+}
+
+.students-stats {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  margin: 16px 0 22px;
+}
+
+.students-stat-card {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+  padding: 14px 12px;
+}
+
+.students-stat-number {
+  color: var(--primary);
+  display: block;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.students-stat-label {
+  color: var(--text-muted);
+  display: block;
+  font-size: 12.5px;
+  line-height: 1.35;
+  margin-top: 5px;
+}
+
+.students-section {
+  margin-top: 20px;
+  padding: 20px 18px;
+}
+
+.students-section-header h3 {
+  margin-top: 0;
+}
+
+.students-subtitle {
+  color: var(--primary);
+  font-size: 15px;
+  font-weight: 700;
+  margin: 20px 0 10px;
+}
+
+.students-grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.student-card {
+  background: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  min-height: 100%;
+  padding: 12px 13px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.student-card:hover {
+  border-color: #b8c7d9;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.07);
+  transform: translateY(-1px);
+}
+
+.student-card h4 {
+  color: var(--heading);
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 5px;
+}
+
+.student-card p {
+  color: #344054;
+  font-size: 13px;
+  line-height: 1.55;
+  margin: 0;
+}
+
+.student-card .student-meta {
+  color: var(--text-muted);
+  font-size: 12.5px;
+  margin-top: 4px;
+}
+
+.phd-card {
+  background: linear-gradient(135deg, #eef6ff 0%, #ffffff 78%);
+  border-color: #bcd4ea;
+}
+
+.phd-card h4::after,
+.ms-card h4::after {
+  border-radius: 999px;
+  display: inline-block;
+  font-size: 10.5px;
+  font-weight: 700;
+  margin-left: 7px;
+  padding: 1px 6px;
+  vertical-align: 1px;
+}
+
+.phd-card h4::after {
+  background: #dbeafe;
+  color: var(--primary);
+  content: "Ph.D.";
+}
+
+.ms-card h4::after {
+  background: #eef2f7;
+  color: #475467;
+  content: "M.S.";
+}
+
+.students-footnote {
+  color: var(--text-muted);
+  font-size: 13px;
+  margin: 20px 0 0;
+  text-align: center !important;
+}
+
 .footer {
   color: var(--text-muted);
   font-size: 13px;
@@ -408,5 +634,20 @@ hr {
 
   .pub-list > li {
     padding-left: 44px;
+  }
+
+  .students-stats,
+  .students-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .students-hero,
+  .students-section,
+  .students-preview {
+    padding: 16px 14px;
+  }
+
+  .students-hero h2 {
+    font-size: 22px;
   }
 }
